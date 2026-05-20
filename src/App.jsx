@@ -4,7 +4,7 @@ import { Link, NavLink, Route, Routes, useLocation } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import './App.css'
 
-const videoUrl = 'https://files.catbox.moe/mte0v5.mp4'
+const videoUrl = '/interior1.mp4'
 const whatsappUrl = 'https://wa.me/919355618309'
 const emailUrl = 'mailto:singhvaibhav0953@gmail.com'
 
